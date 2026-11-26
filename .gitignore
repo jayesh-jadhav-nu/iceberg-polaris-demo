@@ -1,0 +1,3 @@
+# the unpacked kit is generated from the tarball; secrets and engine configs are created by ./run.sh setup
+demo-kit/
+.DS_Store
